@@ -1,8 +1,8 @@
 {
   "name": "kozz/static-cache",
   "type": "library",
-  "description": "Doctrine Cache Factory for Yii 1",
-  "keywords": ["Doctrine", "Cache", "Repository", "Static"],
+  "description": "Static Cache",
+  "keywords": ["Cache", "Static"],
   "homepage": "http://github.com/urakozz/php-static-cache",
   "license": "MIT",
 
