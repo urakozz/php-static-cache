@@ -1,5 +1,5 @@
 {
-  "name": "kozz/yii-doctrine-cache",
+  "name": "kozz/static-cache",
   "type": "library",
   "description": "Doctrine Cache Factory for Yii 1",
   "keywords": ["Doctrine", "Cache", "Repository", "Static"],
