@@ -9,7 +9,7 @@ namespace Kozz\Components\Cache;
 
 use Closure;
 use Doctrine\Common\Cache\ArrayCache;
-use MS\Cache\Repository\CacheRepositoryInterface;
+use Kozz\Components\Cache\Repository\CacheRepositoryInterface;
 
 /**
  * Class StaticCache
