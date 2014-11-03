@@ -63,10 +63,10 @@ $validator = StaticCache::loadRepository(new SymfonyValidator());
 
 Methods
 
-```get($id)```
+```get($id)``` - get
 
-```set($id, $data)```
+```set($id, $data)``` - set
 
-```has($id)``` 
+```has($id)``` - check
 
-```loadRepository(CacheRepositoryInterface $repository)```
+```loadRepository(CacheRepositoryInterface $repository)``` - load Repository
