@@ -1,5 +1,4 @@
 .idea/
-composer.lock
 phpunit.xml
 composer.phar
 composer-test.lock

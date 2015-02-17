@@ -45,6 +45,8 @@ class SymfonyValidator implements CacheRepositoryInterface
   }
 }
 
+```
+
 //SomeFile.php
 use Kozz\Components\Cache\StaticCache
 
